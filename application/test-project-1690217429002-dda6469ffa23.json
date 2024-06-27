@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "test-project-1690217429002",
+  "private_key_id": "dda6469ffa23b7c09190f89121828b904150b224",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKqf2PzRA/C8TO\nNSjsBoAhonQZw0Iimtzo5U34rCSkWbU3lwb/Pr6GZD61p9IalTQF4IFXrOvoNLt8\nS0jqBmegGrxJwmI+BbSZnA+3Kx7WNcVDSPcvxnfpvvduS90RETm+iXFU9bGslZfX\nzAkGCE9eKN52bTbUwfqNvUJ/PYAZg2APVBAOyp0wk3N7PWVxDg9B3SQYhWUemsDM\nqRdNRaNP5aEZzmuOqqWgtIy0Vjq2ZA9dcNvDyzsriIeq/pC8siI/kYPPG1Y71uEz\n8VPVElFWnJyuwptZbnC56KQO+CbBMqrupyXLps+fyUAwlmAL1HRwnCzmDb0KiRo3\n00/dnH/LAgMBAAECggEAEAzxPs37zXBtTXk1zWxLNJl7WugRJbRLUeIJDnnOm/+O\nTGr88lqu7xt3bsuING+E4BFGp4FqpSxFb3O/cude41d06AzKFmfOqeE4qHkjTqRW\nux0dD7indLUYKvo5Epqt1nJOXgk6kcGXG/GQMdSQa1PLvGWT7Tiu6e04X0YdJ9az\nh9LVJepqjgN3vQxXcQU9QkRI1ML+yVaIxUZ7itSsHvRCjA9rIRSQk5S+2xPx6xUt\nRG2e+8kDQ0/jnRVPs4QlHcq21Smo/CgGWHNHjg6qrrpg/V2w+7Xw90ICDQ03qRcD\nqjra2eDf/O9v0zAna9eQs7HSg+Cq5bkYwRcEQQEKEQKBgQDDl321O5IfPYQpq7eE\nSd1Kenazs1lfo7DIZmjCnVObCYkuGNP9FsfsV926JMYEBg/g6Bg9LY53OcIRQHeb\nXkP7tjUOyRfyWskymGOOGkoohOtMSSmFbTG0/R/7EY2KjgyCOlHu57WzD/znoXBq\nGsFUVbIlqgkkDmrxo4P1a7mdNwKBgQC1fX6U1/W5zQ9/yZS2HT8ADeDEL5as2dTo\nrha6SXv0lF6xfcYEWlWKX0UF/wjKIDHiIy1xqB+Bc/9T5P7Mk0hECHSqe13TUNrX\n1GU1hR4eyHpRJdyiU/FA7XsRGHAwIi+D2FtAlajU0sU7yUKf43myLzY4cmCQZmtJ\nX+A3Aq6cDQKBgDO9BwvBzk1lQGile84Km/bvnia68pFSA5l/PYb9hvgj9Z20A5+X\nPxtNwuFSiO7Xi6u6uW61dlIjfSqDGyCGNwWGlVJr72G0kjRIC02ztpoxTuzHDay1\nzchKjQMlCYP1P2nTc4j20iGjwQqksc/fc/STFqTP7csT5UY2MtngvSDRAoGBAKF+\nRcCUWmc2fPAso1NZutGFh9eKsPyl6LoTDs48zTvZOlmdnTIKX8t88qJfSabx9vFO\ndAWKoF5EpZI1VjUbaVaAX6/Djr2WWOVsbZKuHRsvMQg8NJONNkOcDcIsiMeL49Pi\nFXDmuxCFbFPCxrIXbBaNxCV+QUa8nALyeUT58f2RAoGAEWnoa/io6anMawVkfULM\noYR1jJCtuudCSqklCqfeO5i1+3IxS6i+lRSHXcFT0EJokI9HwuhLoO6hwIuol9fa\n9mH+sJhisfJMuIvrixRVXoGWMGbx27JQ9U/Xh29ST5Kq4G0LeYiykzUvnslscm4e\nzKqXKg9QdaRG2eh5LVs7gk8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reyhanadr-test-api-djaman-web@test-project-1690217429002.iam.gserviceaccount.com",
+  "client_id": "117104436346051181641",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reyhanadr-test-api-djaman-web%40test-project-1690217429002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
